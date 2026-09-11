@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "config": {
+    "enabled": true,
+    "notes": "Configuración maestra de House Ads remotos para las aplicaciones de Silver Devs Labs"
+  },
+  "banners": [
+    {
+      "id": "promo_aiprostore",
+      "active": true,
+      "title": "AI PRO STORE",
+      "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_aiprostore.webp",
+      "target_url": "https://t.me/AI_PRO_STORE_bot?start=app_banner",
+      "badge_text": "Promo",
+      "weight": 50
+    },
+    {
+      "id": "app_silverargos",
+      "active": false,
+      "title": "SilverArgosPass - Gestor Seguro",
+      "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_silverargos.webp",
+      "target_url": "https://play.google.com/store/apps/details?id=com.silver_devs_labs.silverargospass",
+      "badge_text": "Promo",
+      "weight": 50
+    },
+    {
+      "id": "app_beatvibrator",
+      "active": false,
+      "title": "BeatVibrator - Ritmo y Música",
+      "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_beatvibrator.webp",
+      "target_url": "https://play.google.com/store/apps/details?id=com.silver_devs_labs.beatvibrator",
+      "badge_text": "Promo",
+      "weight": 50
+    }
+  ],
+  "rewarded": {
+    "id": "promo_aiprostore_rewarded",
+    "active": true,
+    "timer_seconds": 15,
+    "badge_text": "Promo",
+    "title": "AI PRO STORE",
+    "subtitle": "18 Meses de IA Avanzada & 5TB Cloud a precio especial",
+    "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_aiprostore.webp",
+    "target_url": "https://t.me/AI_PRO_STORE_bot?start=app_rewarded",
+    "cta_text": "Conocer en Telegram",
+    "reward_minutes": 15
+  }
+}
