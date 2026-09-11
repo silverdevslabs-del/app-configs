@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "config": {
     "enabled": true,
     "notes": "Configuración maestra de House Ads remotos para las aplicaciones de Silver Devs Labs"
@@ -9,7 +9,7 @@
       "id": "promo_aiprostore",
       "active": true,
       "title": "AI PRO STORE",
-      "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_aiprostore.webp",
+      "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_aiprostore.webp?v=2",
       "target_url": "https://t.me/AI_PRO_STORE_bot?start=app_banner",
       "badge_text": "Promo",
       "weight": 50
