@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "config": {
     "enabled": true,
     "notes": "Configuración maestra de House Ads remotos para las aplicaciones de Silver Devs Labs"
@@ -16,10 +16,10 @@
     },
     {
       "id": "app_silverargos",
-      "active": false,
-      "title": "SilverArgosPass - Gestor Seguro",
-      "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_silverargos.webp",
-      "target_url": "https://play.google.com/store/apps/details?id=com.silver_devs_labs.silverargospass",
+      "active": true,
+      "title": "SilverArgosPass - Gestor Zero-Knowledge",
+      "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_silverargos.webp?v=1",
+      "target_url": "https://play.google.com/store/apps/details?id=com.silverdevslabs.silverargospass",
       "badge_text": "Promo",
       "weight": 50
     },
