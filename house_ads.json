@@ -1,10 +1,19 @@
 {
-  "version": 3,
+  "version": 4,
   "config": {
     "enabled": true,
-    "notes": "Configuración maestra de House Ads remotos para las aplicaciones de Silver Devs Labs"
+    "notes": "Configuración maestra de House Ads remotos para las aplicaciones de Silver Devs Labs - Redirección oficial a StreamVoice: Tok"
   },
   "banners": [
+    {
+      "id": "app_streamvoice_tok",
+      "active": true,
+      "title": "StreamVoice: Tok Live Chat TTS",
+      "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_streamvoice_tok.webp?v=1",
+      "target_url": "https://silverdevslabs-del.github.io/streamvoice-tok/",
+      "badge_text": "Oficial",
+      "weight": 80
+    },
     {
       "id": "promo_aiprostore",
       "active": true,
@@ -12,7 +21,7 @@
       "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_aiprostore.webp?v=2",
       "target_url": "https://t.me/AI_PRO_STORE_bot?start=app_banner",
       "badge_text": "Promo",
-      "weight": 50
+      "weight": 10
     },
     {
       "id": "app_silverargos",
@@ -21,7 +30,7 @@
       "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_silverargos.webp?v=1",
       "target_url": "https://play.google.com/store/apps/details?id=com.silverdevslabs.silverargospass",
       "badge_text": "Promo",
-      "weight": 50
+      "weight": 10
     },
     {
       "id": "app_beatvibrator",
@@ -34,15 +43,15 @@
     }
   ],
   "rewarded": {
-    "id": "promo_aiprostore_rewarded",
+    "id": "streamvoice_tok_migration_rewarded",
     "active": true,
     "timer_seconds": 15,
-    "badge_text": "Promo",
-    "title": "AI PRO STORE",
-    "subtitle": "18 Meses de IA Avanzada & 5TB Cloud a precio especial",
-    "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_aiprostore.webp",
-    "target_url": "https://t.me/AI_PRO_STORE_bot?start=app_rewarded",
-    "cta_text": "Conocer en Telegram",
+    "badge_text": "Oficial",
+    "title": "StreamVoice: Tok Live Chat TTS",
+    "subtitle": "¡Nos mudamos! Continúa tus transmisiones en vivo sin interrupciones con la nueva app oficial optimizada y blindada.",
+    "image_url": "https://raw.githubusercontent.com/silverdevslabs-del/app-configs/main/assets/house_ad_banner_streamvoice_tok.webp?v=1",
+    "target_url": "https://silverdevslabs-del.github.io/streamvoice-tok/",
+    "cta_text": "Descargar Nueva App",
     "reward_minutes": 15
   }
 }
