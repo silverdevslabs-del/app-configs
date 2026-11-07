@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-07T01:14:23.237787+00:00",
+  "last_updated": "2026-11-07T02:37:00Z",
   "app_package": "com.silver_devs_labs.tiktoktts",
   "description": "Authorized Google Play lifetime license hashes for TikTok Live TTS",
   "hashes": {
@@ -109,5 +109,6 @@
       "tier": "lifetime_full",
       "active": true
     }
-  }
+  },
+  "service_active": true
 }
