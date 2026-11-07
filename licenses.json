@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "last_updated": "2026-11-07T01:14:23.237787+00:00",
+  "app_package": "com.silver_devs_labs.tiktoktts",
+  "description": "Authorized Google Play lifetime license hashes for TikTok Live TTS",
+  "hashes": {
+    "d8b70dab12d7c5a045e53752f8ab41c3a3b8f4ad205ff52325e870e19a44ef2a": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "8db8329f3773250b676e2d494202e860ddb7eed194937abf7202056883d0067c": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "c24106315e1d5d7e3f3a0c13266c9855779117120a42e3f52bcc7c7012e1dfe0": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "2de6d91b6db888a34ee01fb2ad06aa8aa07ded8809ceef4034a445d0cdc4a065": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "6b167fd528f7facb499657b265340a0e76f48b9981262d0deb111ebbcdd63084": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "013482b43dc87af088f7a30084e890cc408e3437c7d7dfaa28ba5df38b076fb0": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "c3965aa5f8d43ca62d6f08a97d785aaeb840902291dbb704b1867a2a845c0d68": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "7751833d1f8525e014caf614cd01bcc536195c4426d20bec2caea2f86d98e0b5": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "8e3e287bb291ebb11fe5d58b18e99a3c643add3258206fc239f9d3d82f3af400": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "46edba8967591490d33af244b8fbca97119cca0dadab2709f4cfd2929658506c": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "78926fb17a133442d2ded0c1675d40e457c0f906850dff73bf30d0721240ed0c": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "76fc9df1931422e7187b10b2130f18e32849b9bc8cd51c3c69fc871bbae235df": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "7daae97317f9ef68817283d65987b6704a3fa34265e1e02c97552a2259676b0d": {
+      "sku": "remove_ads_lifetime",
+      "tier": "lifetime_no_ads",
+      "active": true
+    },
+    "a11bc089c981bb851eaef37e25c84f16a51ea5c5c60a411530cfc2ced75c1ef6": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "fb104647e6294ddd02fce6f657a4fd9474ecb5982756d180018f3e241903a118": {
+      "sku": "remove_ads_lifetime",
+      "tier": "lifetime_no_ads",
+      "active": true
+    },
+    "f811c36876fcac40112f03d9ddb07e672247cf7c77e47dd41ea4da4f38ef8d60": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "861503ca05cfa1404c267a3a5b839f05447c8326ec14f82765c11bdb771530f1": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "c6e701616ae715c6da2518bed46f5a22000b91054736241b001e9f1168b0ff54": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "2e311d8bf570efc726089b0472e3f6de931dae7a46a17661d56bd3c645f524ed": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    },
+    "b149e9f78c8807623c25cf52605dac893de9dd4cef7d35fd158fe5444f3f54c0": {
+      "sku": "remove_ads_lifetime",
+      "tier": "lifetime_no_ads",
+      "active": true
+    },
+    "eaf0610398aa2943ec66b4584b3cece9da6a90ac721c158f3fa104b44bdb6808": {
+      "sku": "premium_features_lifetime",
+      "tier": "lifetime_full",
+      "active": true
+    }
+  }
+}
